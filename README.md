@@ -11,4 +11,4 @@ Input via USER PROFILE ARCHIVE, USER INTERFACE or third party ACCESS MODULES.
 
 Desired Outputs to third party ACCESS MODULES, USER PROFILE ARCHIVE or USER INTERFACE.
 
-Please help create this program...I am not a programmer.. W.Smith March 26 2018.
+Please help create this program...I am not yet a programmer.. W.Smith (March 26 2018.)
